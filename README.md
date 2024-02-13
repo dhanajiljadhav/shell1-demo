@@ -2,6 +2,6 @@
 practice repo-- my first file in this repo...
 <br>
 <br>
-Author - DJ
+Author - Dhanaji Jadhav(dj)
 <br>
 Jadhav
